@@ -1,4 +1,3 @@
-# Operational-Audit-and-SLA-Reperformance
 # Operational Audit & SLA Reperformance
 
 ## 💡 Executive Summary
